@@ -1,0 +1,5 @@
+Chapter 2
+
+1. Union Find
+   *. Hash map with key as key and value as key's father (or vise versa)
+   *. Recursive find can overflow the stack because of long searching chain.
